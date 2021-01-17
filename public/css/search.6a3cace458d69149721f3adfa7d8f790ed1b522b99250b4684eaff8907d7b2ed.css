@@ -1,0 +1,9 @@
+#search {
+  height: 50px;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid;
+  box-shadow: 5px 5px 0 #ff3392;
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
